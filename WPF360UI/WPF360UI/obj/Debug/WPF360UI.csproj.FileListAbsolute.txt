@@ -1,0 +1,47 @@
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\bin\Debug\WPF360UI.exe.config
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\bin\Debug\WPF360UI.exe
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\bin\Debug\WPF360UI.pdb
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\MainWindow.baml
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\MainWindow.g.cs
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\App.g.cs
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\WPF360UI_MarkupCompile.cache
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\WPF360UI.g.resources
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\WPF360UI.Properties.Resources.resources
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\WPF360UI.csproj.GenerateResource.Cache
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\WPF360UI.exe
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\WPF360UI.pdb
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\StyleResource.baml
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\App.baml
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\obj\Debug\WPF360UI.csprojResolveAssemblyReference.cache
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\bin\Debug\wmcontrol.dll
+G:\BeilinuCode\C Sharp\WPF360UI\WPF360UI\bin\Debug\wmcontrol.pdb
+G:\CODE\WPF360UI\WPF360UI\bin\Debug\WPF360UI.exe.config
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\WPF360UI.exe
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\WPF360UI.pdb
+G:\CODE\WPF360UI\WPF360UI\bin\Debug\WPF360UI.exe
+G:\CODE\WPF360UI\WPF360UI\bin\Debug\WPF360UI.pdb
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\MainWindow.baml
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\StyleResource.baml
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\App.baml
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\MainWindow.g.cs
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\App.g.cs
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\WPF360UI_MarkupCompile.cache
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\WPF360UI.g.resources
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\WPF360UI.Properties.Resources.resources
+G:\CODE\WPF360UI\WPF360UI\obj\Debug\WPF360UI.csproj.GenerateResource.Cache
+G:\CODE\WPF360UI\WPF360UI\bin\Debug\wmcontrol.dll
+E:\project\WPF\WPF360UI\WPF360UI\bin\Debug\WPF360UI.exe.config
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\WPF360UI.exe
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\WPF360UI.pdb
+E:\project\WPF\WPF360UI\WPF360UI\bin\Debug\WPF360UI.exe
+E:\project\WPF\WPF360UI\WPF360UI\bin\Debug\WPF360UI.pdb
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\WPF360UI.csprojResolveAssemblyReference.cache
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\MainWindow.baml
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\StyleResource.baml
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\App.baml
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\MainWindow.g.cs
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\App.g.cs
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\WPF360UI_MarkupCompile.cache
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\WPF360UI.g.resources
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\WPF360UI.Properties.Resources.resources
+E:\project\WPF\WPF360UI\WPF360UI\obj\Debug\WPF360UI.csproj.GenerateResource.Cache
